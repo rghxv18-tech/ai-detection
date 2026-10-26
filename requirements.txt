@@ -1,0 +1,10 @@
+# NOT YET LOCKED: ranges only. Run `pip freeze > requirements.lock.txt` after a verified install on Python 3.13.
+streamlit>=1.40
+torch>=2.6
+transformers>=4.46
+pillow>=11
+numpy>=2
+pandas>=2.2
+opencv-python-headless>=4.10
+scikit-learn>=1.5
+pytest>=8

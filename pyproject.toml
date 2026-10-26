@@ -1,0 +1,5 @@
+[project]
+name = "ai-content-detector"
+version = "0.1.0"
+description = "Probabilistic AI text / image / video detector (Streamlit)"
+requires-python = "==3.13.11"   # change together with .python-version
